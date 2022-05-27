@@ -1,2 +1,2 @@
-# -js-fizzbuzzdom
+# js-fizzbuzzdom
 Accenture / Workfully Training JavaScript
