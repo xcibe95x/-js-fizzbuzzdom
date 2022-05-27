@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto';
+    padding: 0; margin: 0;
+    text-align: center;
+    color: white;
+    background-color: #083B4C;
+    margin-top: 20px;
+}
+
+.container {
+    margin: 0 auto;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 900px;
+}
+
+.box {
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    background: #1389B2;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.box2 {
+    background: #0AD5A0;
+}
+
+.box3 {
+    background: #FFD166;
+}
+
+.box4 {
+    background: #EF466F;
+}
